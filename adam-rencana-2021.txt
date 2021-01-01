@@ -1,0 +1,6 @@
+rencana adam di 2021
+
+- javascript
+- php framework
+- git
+- rest api
