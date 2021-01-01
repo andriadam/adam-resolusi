@@ -2,3 +2,5 @@ WPU Resolusi
 - makan
 - minum
 - mandi
+- membuat pi
+- selesain penulisan pi
