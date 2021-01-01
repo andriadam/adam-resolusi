@@ -4,8 +4,6 @@ rencana adam di 2021
   * Vue
   * React
 - php framework
-  * CI4
   * Laravel 8
-- git
 - rest api
 - payment gateway
